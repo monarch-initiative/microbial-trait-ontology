@@ -1,0 +1,84 @@
+name: microtraits
+description: microtraits
+id: https://w3id.org/microtraits
+imports:
+- linkml:types
+prefixes:
+  linkml: https://w3id.org/linkml/
+  microtraits: https://w3id.org/microtraits
+default_prefix: microtraits
+types:
+  identifier:
+    typeof: string
+enums:
+  microtrait_trait_strategy_enum:
+    permissible_values:
+      Resource Use:
+        description: Resource Use
+      Stress Tolerance:
+        description: Stress Tolerance
+      Resource Acquisition:
+        description: Resource Acquisition
+  microtrait_trait_type_enum:
+    permissible_values:
+      count:
+        description: count
+      binary:
+        description: binary
+  microtrait_trait_version_enum:
+    permissible_values:
+      production:
+        description: production
+slots:
+  microtrait_trait_name:
+    examples:
+    - value: Stress Tolerance:Specific:envelope stress:phage resistance:phage_shock
+        system
+    range: identifier
+  microtrait_trait_displaynameshort:
+    examples:
+    - value: Envelope stress tolerance by phage resistance with phage_shock system
+    range: string
+  microtrait_trait_displaynamelong:
+    examples:
+    - value: Stress Tolerance:Specific:envelope stress:phage resistance:phage-shock
+        system
+    range: identifier
+  microtrait_trait_strategy:
+    examples:
+    - value: Stress Tolerance
+    range: microtrait_trait_strategy_enum
+  microtrait_trait_type:
+    examples:
+    - value: count
+    range: microtrait_trait_type_enum
+  microtrait_trait_granularity:
+    examples:
+    - value: '3'
+    range: integer
+  microtrait_trait_version:
+    examples:
+    - value: production
+    range: microtrait_trait_version_enum
+  microtrait_trait_displayorder:
+    examples:
+    - value: '189'
+    range: integer
+classes:
+  TraitDocument:
+    tree_root: true
+    attributes:
+      traits:
+        range: Trait
+        multivalued: true
+        inlined: true
+  Trait:
+    slots:
+    - microtrait_trait_name
+    - microtrait_trait_displaynameshort
+    - microtrait_trait_displaynamelong
+    - microtrait_trait_strategy
+    - microtrait_trait_type
+    - microtrait_trait_granularity
+    - microtrait_trait_version
+    - microtrait_trait_displayorder

@@ -1,0 +1,24 @@
+{
+  "template": "https://github.com/monarch-initiative/monarch-project-template/",
+  "commit": "8f2d0813fea1e927d1ee1947188ebca511fcd23d",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "microbial-trait-ontology",
+      "github_org_name": "monarch-initiative",
+      "__project_slug": "microbial_trait_ontology",
+      "project_description": "ETL for microbial traits",
+      "min_python_version": "3.9",
+      "file_name": "main",
+      "greeting_recipient": "World",
+      "full_name": "Author 1",
+      "email": "author@org.org",
+      "__author": "Author 1 <author@org.org>",
+      "license": "BSD-3",
+      "github_token_for_doc_deployment": "GH_TOKEN",
+      "github_token_for_pypi_deployment": "PYPI_TOKEN",
+      "_template": "https://github.com/monarch-initiative/monarch-project-template/"
+    }
+  },
+  "directory": null
+}

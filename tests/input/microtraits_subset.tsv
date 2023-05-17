@@ -1,0 +1,20 @@
+microtrait_trait_name	microtrait_trait_displaynameshort	microtrait_trait_displaynamelong	microtrait_trait_strategy	microtrait_trait_type	microtrait_trait_granularity	microtrait_trait_version	microtrait_trait_displayorder
+Resource Acquisition:Substrate uptake:aromatic acid transport	Aromatic acid transport	Resource Acquisition:Substrate uptake:aromatic acid transport	Resource Acquisition	count	1	production	1
+Resource Acquisition:Substrate uptake:biopolymer transport	Biopolymer transport	Resource Acquisition:Substrate uptake:biopolymer transport	Resource Acquisition	count	1	production	2
+Resource Acquisition:Substrate uptake:carbohydrate transport	Carbohydrate transport	Resource Acquisition:Substrate uptake:carbohydrate transport	Resource Acquisition	count	1	production	3
+Resource Acquisition:Substrate uptake:carboxylate transport	Carboxylate transport	Resource Acquisition:Substrate uptake:carboxylate transport	Resource Acquisition	count	1	production	4
+Resource Acquisition:Substrate uptake:free amino acids transport	Free amino acids transport	Resource Acquisition:Substrate uptake:free amino acids transport	Resource Acquisition	count	1	production	5
+Resource Acquisition:Substrate uptake:ion transport	Ion transport	Resource Acquisition:Substrate uptake:ion transport	Resource Acquisition	count	1	production	6
+Resource Acquisition:Substrate uptake:lipid transport	Lipid transport	Resource Acquisition:Substrate uptake:lipid transport	Resource Acquisition	count	1	production	7
+Resource Acquisition:Substrate uptake:N compound transport	N compound transport	Resource Acquisition:Substrate uptake:N compound transport	Resource Acquisition	count	1	production	8
+Resource Acquisition:Substrate uptake:nucleic acid component transport	Nucleic acid component transport	Resource Acquisition:Substrate uptake:nucleic acid component transport	Resource Acquisition	count	1	production	9
+Resource Acquisition:Substrate uptake:organophosphorus transport	Organophosphorus transport	Resource Acquisition:Substrate uptake:organophosphorus transport	Resource Acquisition	count	1	production	10
+Resource Acquisition:Substrate uptake:osmolyte transport	Osmolyte transport	Resource Acquisition:Substrate uptake:osmolyte transport	Resource Acquisition	count	1	production	11
+Resource Acquisition:Substrate uptake:other transport	Other transport	Resource Acquisition:Substrate uptake:other transport	Resource Acquisition	count	1	production	12
+Resource Acquisition:Substrate uptake:peptide transport	Peptide transport	Resource Acquisition:Substrate uptake:peptide transport	Resource Acquisition	count	1	production	13
+Resource Acquisition:Substrate uptake:S compound transport	S compound transport	Resource Acquisition:Substrate uptake:S compound transport	Resource Acquisition	count	1	production	14
+Resource Acquisition:Substrate uptake:secondary metabolite transport	Secondary metabolite transport	Resource Acquisition:Substrate uptake:secondary metabolite transport	Resource Acquisition	count	1	production	15
+Resource Acquisition:Substrate uptake:vitamin transport	Vitamin transport	Resource Acquisition:Substrate uptake:vitamin transport	Resource Acquisition	count	1	production	16
+Resource Acquisition:Substrate degradation:complex carbohydrate depolymerization	Complex carbohydrate depolymerization	Resource Acquisition:Substrate degradation:complex carbohydrate depolymerization	Resource Acquisition	count	1	production	17
+Resource Acquisition:Substrate degradation:simple compound degradation	Simple compound degradation	Resource Acquisition:Substrate degradation:simple compound degradation	Resource Acquisition	binary	1	production	18
+Resource Acquisition:Substrate assimilation:C1 compounds	Assimilation of C1 compounds	Resource Acquisition:Substrate assimilation:C1 compounds	Resource Acquisition	binary	1	production	19

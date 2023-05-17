@@ -1,0 +1,1630 @@
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:aromatic_acid_transport
+name: Aromatic acid transport
+synonym: "Resource Acquisition:Substrate uptake:aromatic acid transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:biopolymer_transport
+name: Biopolymer transport
+synonym: "Resource Acquisition:Substrate uptake:biopolymer transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport
+name: Carbohydrate transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carboxylate_transport
+name: Carboxylate transport
+synonym: "Resource Acquisition:Substrate uptake:carboxylate transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:free_amino_acids_transport
+name: Free amino acids transport
+synonym: "Resource Acquisition:Substrate uptake:free amino acids transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:ion_transport
+name: Ion transport
+synonym: "Resource Acquisition:Substrate uptake:ion transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:lipid_transport
+name: Lipid transport
+synonym: "Resource Acquisition:Substrate uptake:lipid transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:N_compound_transport
+name: N compound transport
+synonym: "Resource Acquisition:Substrate uptake:N compound transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:nucleic_acid_component_transport
+name: Nucleic acid component transport
+synonym: "Resource Acquisition:Substrate uptake:nucleic acid component transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:organophosphorus_transport
+name: Organophosphorus transport
+synonym: "Resource Acquisition:Substrate uptake:organophosphorus transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:osmolyte_transport
+name: Osmolyte transport
+synonym: "Resource Acquisition:Substrate uptake:osmolyte transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:other_transport
+name: Other transport
+synonym: "Resource Acquisition:Substrate uptake:other transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:peptide_transport
+name: Peptide transport
+synonym: "Resource Acquisition:Substrate uptake:peptide transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:S_compound_transport
+name: S compound transport
+synonym: "Resource Acquisition:Substrate uptake:S compound transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:secondary_metabolite_transport
+name: Secondary metabolite transport
+synonym: "Resource Acquisition:Substrate uptake:secondary metabolite transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:vitamin_transport
+name: Vitamin transport
+synonym: "Resource Acquisition:Substrate uptake:vitamin transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:complex_carbohydrate_depolymerization
+name: Complex carbohydrate depolymerization
+synonym: "Resource Acquisition:Substrate degradation:complex carbohydrate depolymerization" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation
+name: Simple compound degradation
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds
+name: Assimilation of C1 compounds
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:N_compounds
+name: Assimilation of N compounds
+synonym: "Resource Acquisition:Substrate assimilation:N compounds" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:S_compounds
+name: Assimilation of S compounds
+synonym: "Resource Acquisition:Substrate assimilation:S compounds" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:P_compounds
+name: Assimilation of P compounds
+synonym: "Resource Acquisition:Substrate assimilation:P compounds" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:fermentation
+name: Fermentation
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:aerobic_respiration
+name: Aerobic respiration
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration
+name: Anaerobic respiration
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoautotrophy
+name: Chemolithoautotrophy
+synonym: "Resource Use:Chemotrophy:chemolithoautotrophy" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:photosystem
+name: Photosystem
+synonym: "Resource Use:Phototrophy:photosystem" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:core
+name: Core pigments
+synonym: "Resource Use:Phototrophy:pigments:core" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory
+name: Accessory pigments
+synonym: "Resource Use:Phototrophy:pigments:accessory" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:General
+name: General stress tolerance
+synonym: "Stress Tolerance:General" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:temperature:high
+name: High temperature tolerance
+synonym: "Stress Tolerance:Specific:temperature:high" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:temperature:low
+name: Low temperature tolerance
+synonym: "Stress Tolerance:Specific:temperature:low" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:desiccation/osmotic/salt_stress
+name: Desiccation/osmotic/salt stress tolerance
+synonym: "Stress Tolerance:Specific:desiccation/osmotic/salt stress" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:pH_stress
+name: pH stress tolerance
+synonym: "Stress Tolerance:Specific:pH stress" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:oxidative_stress
+name: Oxidative stress tolerance
+synonym: "Stress Tolerance:Specific:oxidative stress" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:oxygen_limitation
+name: Oxygen limitation tolerance
+synonym: "Stress Tolerance:Specific:oxygen limitation" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:envelope_stress
+name: Envelope stress tolerance
+synonym: "Stress Tolerance:Specific:envelope stress" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:aromatic_acid_transport
+name: Aromatic acid transport
+synonym: "Resource Acquisition:Substrate uptake:aromatic acid transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:biopolymer_transport
+name: Biopolymer transport
+synonym: "Resource Acquisition:Substrate uptake:biopolymer transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:amino_sugar_transport
+name: Carbohydrate transport:amino sugar transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:amino sugar transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:carbohydrate_acid_transport
+name: Carbohydrate transport:carbohydrate acid transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:carbohydrate acid transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:carbohydrate_derivative_transport
+name: Carbohydrate transport:carbohydrate derivative transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:carbohydrate derivative transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:carbohydrate_phosphate_transport
+name: Carbohydrate transport:carbohydrate phosphate transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:carbohydrate phosphate transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:monosaccharide_transport
+name: Carbohydrate transport:monosaccharide transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:monosaccharide transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:oligosaccharide_transport
+name: Carbohydrate transport:oligosaccharide transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:oligosaccharide transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:polysaccharide_transport
+name: Carbohydrate transport:polysaccharide transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:polysaccharide transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:sugar_alcohol_transport
+name: Carbohydrate transport:sugar alcohol transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:sugar alcohol transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carboxylate_transport:dicarboxylate_transport
+name: Carboxylate transport:dicarboxylate transport
+synonym: "Resource Acquisition:Substrate uptake:carboxylate transport:dicarboxylate transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carboxylate_transport:monocarboxylate_transport
+name: Carboxylate transport:monocarboxylate transport
+synonym: "Resource Acquisition:Substrate uptake:carboxylate transport:monocarboxylate transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carboxylate_transport:tricarboxylate_transport
+name: Carboxylate transport:tricarboxylate transport
+synonym: "Resource Acquisition:Substrate uptake:carboxylate transport:tricarboxylate transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:free_amino_acids_transport
+name: Free amino acids transport
+synonym: "Resource Acquisition:Substrate uptake:free amino acids transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:ion_transport:inorganic_transport
+name: Ion transport:inorganic transport
+synonym: "Resource Acquisition:Substrate uptake:ion transport:inorganic transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:ion_transport:metal_transport
+name: Ion transport:metal transport
+synonym: "Resource Acquisition:Substrate uptake:ion transport:metal transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:lipid_transport
+name: Lipid transport
+synonym: "Resource Acquisition:Substrate uptake:lipid transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:lipid_transport:cell_membrane_lipid_transport
+name: Cell membrane lipid transport
+synonym: "Resource Acquisition:Substrate uptake:lipid transport:cell membrane lipid transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:lipid_transport:lipid_precursor_transport
+name: Lipid precursor transport
+synonym: "Resource Acquisition:Substrate uptake:lipid transport:lipid precursor transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:N_compound_transport:amide_transport
+name: Amide transport
+synonym: "Resource Acquisition:Substrate uptake:N compound transport:amide transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:N_compound_transport:ammonium_transport
+name: Ammonium transport
+synonym: "Resource Acquisition:Substrate uptake:N compound transport:ammonium transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:N_compound_transport:nitrate_transport
+name: Nitrate transport
+synonym: "Resource Acquisition:Substrate uptake:N compound transport:nitrate transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:N_compound_transport:nitrite_transport
+name: Nitrite transport
+synonym: "Resource Acquisition:Substrate uptake:N compound transport:nitrite transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:N_compound:nitrogen_transport
+name: Nitrogen transport
+synonym: "Resource Acquisition:Substrate uptake:N compound:nitrogen transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:N_compound:urea_transport
+name: Urea transport
+synonym: "Resource Acquisition:Substrate uptake:N compound:urea transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:N_compound:uric_acid_transport
+name: Uric acid transport
+synonym: "Resource Acquisition:Substrate uptake:N compound:uric acid transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:nucleic_acid_component_transport:nucleobase_transport
+name: Nucleobase transport
+synonym: "Resource Acquisition:Substrate uptake:nucleic acid component transport:nucleobase transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:nucleic_acid_component_transport:nucleoside_transport
+name: Nucleoside transport
+synonym: "Resource Acquisition:Substrate uptake:nucleic acid component transport:nucleoside transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:nucleic_acid_component_transport:nucleotide_transport
+name: Nucleotide transport
+synonym: "Resource Acquisition:Substrate uptake:nucleic acid component transport:nucleotide transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:nucleic_acid_component_transport:ribonucleoside_transport
+name: Ribonucleoside transport
+synonym: "Resource Acquisition:Substrate uptake:nucleic acid component transport:ribonucleoside transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:organophosphorus_compound_transport
+name: Organophosphorus compound transport
+synonym: "Resource Acquisition:Substrate uptake:organophosphorus compound transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:osmolyte_transport
+name: Osmolyte transport
+synonym: "Resource Acquisition:Substrate uptake:osmolyte transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:other_transport
+name: Other transport
+synonym: "Resource Acquisition:Substrate uptake:other transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:peptide_transport
+name: Peptide transport
+synonym: "Resource Acquisition:Substrate uptake:peptide transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:S_compound_transport
+name: S compound transport
+synonym: "Resource Acquisition:Substrate uptake:S compound transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:secondary_metabolite_transport:siderophore-based_transport
+name: Siderophore-based transport
+synonym: "Resource Acquisition:Substrate uptake:secondary metabolite transport:siderophore-based transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:vitamin_transport:vitamin_B_transport
+name: Vitamin B transport
+synonym: "Resource Acquisition:Substrate uptake:vitamin transport:vitamin B transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:vitamin_transport:vitamin_C_transport
+name: Vitamin C transport
+synonym: "Resource Acquisition:Substrate uptake:vitamin transport:vitamin C transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:complex_carbohydrate_depolymerization:cellulose_breakdown
+name: Complex carbohydrate depolymerization by cellulose breakdown
+synonym: "Resource Acquisition:Substrate degradation:complex carbohydrate depolymerization:cellulose breakdown" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:complex_carbohydrate_depolymerization:chitin_breakdown
+name: Complex carbohydrate depolymerization by chitin breakdown
+synonym: "Resource Acquisition:Substrate degradation:complex carbohydrate depolymerization:chitin breakdown" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:complex_carbohydrate_depolymerization:heteromannan_breakdown
+name: Complex carbohydrate depolymerization by heteromannan breakdown
+synonym: "Resource Acquisition:Substrate degradation:complex carbohydrate depolymerization:heteromannan breakdown" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:complex_carbohydrate_depolymerization:mixed_linkage_glucan_breakdown
+name: Complex carbohydrate depolymerization by mixed linkage glucan breakdown
+synonym: "Resource Acquisition:Substrate degradation:complex carbohydrate depolymerization:mixed linkage glucan breakdown" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:complex_carbohydrate_depolymerization:xylan_and_heteroxylan_breakdown
+name: Complex carbohydrate depolymerization by xylan and heteroxylan breakdown
+synonym: "Resource Acquisition:Substrate degradation:complex carbohydrate depolymerization:xylan and heteroxylan breakdown" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:complex_carbohydrate_depolymerization:xyloglucan_breakdown
+name: Complex carbohydrate depolymerization by xyloglucan breakdown
+synonym: "Resource Acquisition:Substrate degradation:complex carbohydrate depolymerization:xyloglucan breakdown" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:protein_degradation
+name: Protein degradation
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:carbohydrate_degradation
+name: Carbohydrate degradation
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:sugar_acid_degradation
+name: Sugar acid degradation
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:sugar acid degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:alcohol_degradation
+name: Alcohol degradation
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:alcohol degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:phenol_degradation
+name: Phenol degradation
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:phenol degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds:CO2_fixation
+name: Substrate Assimilation of C1 compounds by CO2 fixation
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds:methanotrophy
+name: Substrate Assimilation of C1 compounds by methanotrophy
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:N_compounds:assimilatory_nitrate_reduction
+name: Substrate Assimilation of N compounds by assimilatory nitrate reduction
+synonym: "Resource Acquisition:Substrate assimilation:N compounds:assimilatory nitrate reduction" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:N_compounds:nitrogen_fixation
+name: Substrate Assimilation of N compounds by nitrogen fixation
+synonym: "Resource Acquisition:Substrate assimilation:N compounds:nitrogen fixation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:N_compounds:ammonia_assimilation
+name: Substrate Assimilation of N compounds by ammonia assimilation
+synonym: "Resource Acquisition:Substrate assimilation:N compounds:ammonia assimilation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:S_compounds:assimilatory_sulfate_reduction
+name: Substrate Assimilation of S compounds by assimilatory sulfate reduction
+synonym: "Resource Acquisition:Substrate assimilation:S compounds:assimilatory sulfate reduction" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:P_compounds
+name: Substrate Assimilation of P compounds
+synonym: "Resource Acquisition:Substrate assimilation:P compounds" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:fermentation:fermentation_of_pyruvate
+name: Fermentation of pyruvate
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation:fermentation of pyruvate" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:fermentation:fermentation_of_acetylene
+name: Fermentation of acetylene
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation:fermentation of acetylene" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:aerobic_respiration
+name: Aerobic respiration
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:N_(denitrification)
+name: Denitrification
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:N (denitrification)" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:S_compounds
+name: Anaerobic respiration of sulfur compounds
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S compounds" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:Fe
+name: Anaerobic respiration of Fe
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:Fe" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:As
+name: Anaerobic respiration of As
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:As" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:Se
+name: Anaerobic respiration of Se
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:Se" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:hydrogenotrophic_methanogenesis
+name: Hydrogenotrophic methanogenesis
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:hydrogenotrophic methanogenesis" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:acetoclastic_methanogenesis
+name: Acetoclastic methanogenesis
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:acetoclastic methanogenesis" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:methylotrophic_methanogenesis
+name: Methylotrophic methanogenesis
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoautotrophy:N_compounds_as_electron_donor:ammonia_oxidation
+name: Ammonia oxidation
+synonym: "Resource Use:Chemotrophy:chemolithoautotrophy:N compounds as electron donor:ammonia oxidation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoautotrophy:N_compounds_as_electron_donor:nitrite_oxidation
+name: Nitrite oxidation
+synonym: "Resource Use:Chemotrophy:chemolithoautotrophy:N compounds as electron donor:nitrite oxidation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoautotrophy:S_compounds_as_electron_donor
+name: Sulfur compound oxidation
+synonym: "Resource Use:Chemotrophy:chemolithoautotrophy:S compounds as electron donor" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoautotrophy:Fe_compounds_as_electron_donor
+name: Iron oxidation
+synonym: "Resource Use:Chemotrophy:chemolithoautotrophy:Fe compounds as electron donor" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoautotrophy:H_as_electron_donor
+name: Hydrogenotrophy
+synonym: "Resource Use:Chemotrophy:chemolithoautotrophy:H as electron donor" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:photosystem:oxygenic
+name: Oxygen photosystem
+synonym: "Resource Use:Phototrophy:photosystem:oxygenic" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:photosystem:anoxygenic
+name: Anoxygenic photosystem
+synonym: "Resource Use:Phototrophy:photosystem:anoxygenic" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:core
+name: Core photopigments
+synonym: "Resource Use:Phototrophy:pigments:core" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:core:anoxygenic
+name: Anoxygenic core photopigments
+synonym: "Resource Use:Phototrophy:pigments:core:anoxygenic" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:carotenoid:carotene
+name: Carotene synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll
+name: Xanthophyll synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:phycobiliprotein
+name: Phycobiliprotein synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:phycobiliprotein" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:General:scavenging_of_reactive_oxygen_species
+name: General stress tolerance by scavenging of reactive oxygen species
+synonym: "Stress Tolerance:General:scavenging of reactive oxygen species" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:General:protection,_repair,_degradation_of_denatured/misfolded_proteins
+name: General stress tolerance by protection, repair, degradation of denatured/misfolded proteins
+synonym: "Stress Tolerance:General:protection, repair, degradation of denatured/misfolded proteins" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:General:biofilm_formation
+name: General stress tolerance by biofilm formation
+synonym: "Stress Tolerance:General:biofilm formation" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:temperature:high:protection,_repair,_degradation_of_denatured/misfolded_proteins
+name: High temperature  tolerance  by protection, repair, degradation of denatured/misfolded proteins
+synonym: "Stress Tolerance:Specific:temperature:high:protection, repair, degradation of denatured/misfolded proteins" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:temperature:high:heat-induced_transcriptional_regulation
+name: High temperature  tolerance  by heat-induced transcriptional regulation
+synonym: "Stress Tolerance:Specific:temperature:high:heat-induced transcriptional regulation" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:temperature:low:membrane_stabilization
+name: Low temperature  tolerance by membrane stabilization
+synonym: "Stress Tolerance:Specific:temperature:low:membrane stabilization" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:temperature:low:destabilization_of_secondary_structures_in_mRNAs
+name: Low temperature  tolerance by destabilization of secondary structures in mrnas
+synonym: "Stress Tolerance:Specific:temperature:low:destabilization of secondary structures in mRNAs" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:temperature:low:cold-sensing_machinery
+name: Low temperature tolerance by cold-sensing
+synonym: "Stress Tolerance:Specific:temperature:low:cold-sensing machinery" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:desiccation/osmotic/salt_stress:accumulation_of_compatible_solutes
+name: Desiccation/osmotic/salt stress tolerance by accumulation of compatible solutes
+synonym: "Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:desiccation/osmotic/salt_stress:enhancement_of_microenvironment
+name: Desiccation/osmotic/salt stress tolerance by enhancement of microenvironment
+synonym: "Stress Tolerance:Specific:desiccation/osmotic/salt stress:enhancement of microenvironment" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:desiccation/osmotic/salt_stress:osmotic_sensing
+name: Desiccation/osmotic/salt stress tolerance by osmotic sensing
+synonym: "Stress Tolerance:Specific:desiccation/osmotic/salt stress:osmotic sensing" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:pH_stress:protection,_repair,_degradation_of_denatured/misfolded_proteins
+name: pH stress tolerance by protection, repair, degradation of denatured/misfolded proteins
+synonym: "Stress Tolerance:Specific:pH stress:protection, repair, degradation of denatured/misfolded proteins" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:pH_stress:membrane_stabilization
+name: pH stress tolerance by membrane stabilization
+synonym: "Stress Tolerance:Specific:pH stress:membrane stabilization" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:pH_stress:redox_sensing
+name: pH stress tolerance by redox sensing
+synonym: "Stress Tolerance:Specific:pH stress:redox sensing" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:pH_stress:consumption_of_excessive_cytoplasmic_protons
+name: pH stress tolerance by consumption of excessive cytoplasmic protons
+synonym: "Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:oxidative_stress:scavenging_of_reactive_oxygen_species
+name: Oxidative stress tolerance by scavenging of reactive oxygen species
+synonym: "Stress Tolerance:Specific:oxidative stress:scavenging of reactive oxygen species" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:oxidative_stress:redox_sensing
+name: Oxidative stress tolerance by redox sensing
+synonym: "Stress Tolerance:Specific:oxidative stress:redox sensing" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:oxygen_limitation:redox_sensing
+name: Oxygen limitation tolerance by redox sensing
+synonym: "Stress Tolerance:Specific:oxygen limitation:redox sensing" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:oxygen_limitation:oxygen_sensing
+name: Oxygen limitation tolerance by oxygen sensing
+synonym: "Stress Tolerance:Specific:oxygen limitation:oxygen sensing" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:envelope_stress:misfolded_protein/secretion_stress_sensing
+name: Envelope stress tolerance by misfolded protein/secretion stress sensing
+synonym: "Stress Tolerance:Specific:envelope:misfolded protein/secretion stress sensing" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:envelope_stress:phage_resistance
+name: Envelope stress tolerance by phage resistance
+synonym: "Stress Tolerance:Specific:envelope:pH stressage resistance" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:aromatic_acid_transport
+name: Aromatic acid transport
+synonym: "Resource Acquisition:Substrate uptake:aromatic acid transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:biopolymer_transport
+name: Biopolymer transport
+synonym: "Resource Acquisition:Substrate uptake:biopolymer transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:amino_sugar_transport
+name: Amino sugar transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:amino sugar transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:carbohydrate_acid_transport
+name: Carbohydrate acid transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:carbohydrate acid transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:carbohydrate_derivative_transport:glycoside_transport
+name: Glycoside transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:carbohydrate derivative transport:glycoside transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:carbohydrate_phosphate_transport
+name: Carbohydrate phosphate transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:carbohydrate phosphate transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:monosaccharide_transport
+name: Monosaccharide transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:monosaccharide transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:oligosaccharide_transport
+name: Oligosaccharide transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:oligosaccharide transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:oligosaccharide_transport:disaccharide_transport
+name: Disaccharide transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:oligosaccharide transport:disaccharide transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:oligosaccharide_transport:tetrasaccharide_transport
+name: Tetrasaccharide transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:oligosaccharide transport:tetrasaccharide transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:oligosaccharide_transport:trisaccharide_transport
+name: Trisaccharide transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:oligosaccharide transport:trisaccharide transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:polysaccharide_transport
+name: Polysaccharide transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:polysaccharide transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carbohydrate_transport:sugar_alcohol_transport
+name: Sugar alcohol transport
+synonym: "Resource Acquisition:Substrate uptake:carbohydrate transport:sugar alcohol transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carboxylate_transport:dicarboxylate_transport
+name: Dicarboxylate transport
+synonym: "Resource Acquisition:Substrate uptake:carboxylate transport:dicarboxylate transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carboxylate_transport:monocarboxylate_transport
+name: Monocarboxylate transport
+synonym: "Resource Acquisition:Substrate uptake:carboxylate transport:monocarboxylate transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:carboxylate_transport:tricarboxylate_transport
+name: Tricarboxylate transport
+synonym: "Resource Acquisition:Substrate uptake:carboxylate transport:tricarboxylate transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:free_amino_acids_transport
+name: Free amino acids transport
+synonym: "Resource Acquisition:Substrate uptake:free amino acids transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:ion_transport:inorganic_ion_transport
+name: Inorganic ion transport
+synonym: "Resource Acquisition:Substrate uptake:ion transport:inorganic ion transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:ion_transport:metal_ion_transport
+name: Metal ion transport
+synonym: "Resource Acquisition:Substrate uptake:ion transport:metal ion transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:lipid_transport
+name: Lipid transport
+synonym: "Resource Acquisition:Substrate uptake:lipid transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:lipid_transport:cell_membrane_lipid_transport
+name: Cell membrane lipid transport
+synonym: "Resource Acquisition:Substrate uptake:lipid transport:cell membrane lipid transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:lipid_transport:lipid_precursor_transport
+name: Lipid precursor transport
+synonym: "Resource Acquisition:Substrate uptake:lipid transport:lipid precursor transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:N_compound_transport:amide_transport
+name: Amide transport
+synonym: "Resource Acquisition:Substrate uptake:N compound transport:amide transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:N_compound_transport:ammonium_transport
+name: Ammonium transport
+synonym: "Resource Acquisition:Substrate uptake:N compound transport:ammonium transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:N_compound_transport:nitrate_transport
+name: Nitrate transport
+synonym: "Resource Acquisition:Substrate uptake:N compound transport:nitrate transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:N_compound_transport:nitrite_transport
+name: Nitrite transport
+synonym: "Resource Acquisition:Substrate uptake:N compound transport:nitrite transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:N_compound_transport:nitrogen_transport
+name: Nitrogen transport
+synonym: "Resource Acquisition:Substrate uptake:N compound transport:nitrogen transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:N_compound_transport:urea_transport
+name: Urea transport
+synonym: "Resource Acquisition:Substrate uptake:N compound transport:urea transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:N_compound_transport:uric_acid_transport
+name: Uric acid transport
+synonym: "Resource Acquisition:Substrate uptake:N compound transport:uric acid transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:nucleic_acid_component_transport:nucleobase_transport
+name: Nucleobase transport
+synonym: "Resource Acquisition:Substrate uptake:nucleic acid component transport:nucleobase transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:nucleic_acid_component_transport:nucleoside_transport
+name: Nucleoside transport
+synonym: "Resource Acquisition:Substrate uptake:nucleic acid component transport:nucleoside transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:nucleic_acid_component_transport:nucleotide_transport
+name: Nucleotide transport
+synonym: "Resource Acquisition:Substrate uptake:nucleic acid component transport:nucleotide transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:nucleic_acid_component_transport:ribonucleoside_transport
+name: Ribonucleoside transport
+synonym: "Resource Acquisition:Substrate uptake:nucleic acid component transport:ribonucleoside transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:organophosphorus_compound_transport
+name: Organophosphorus compound transport
+synonym: "Resource Acquisition:Substrate uptake:organophosphorus compound transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:osmolyte_transport
+name: Osmolyte transport
+synonym: "Resource Acquisition:Substrate uptake:osmolyte transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:other_transport
+name: Other transport
+synonym: "Resource Acquisition:Substrate uptake:other transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:peptide_transport
+name: Peptide transport
+synonym: "Resource Acquisition:Substrate uptake:peptide transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:S_compound_transport
+name: S compound transport
+synonym: "Resource Acquisition:Substrate uptake:S compound transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:secondary_metabolite_transport:siderophore-based_transport
+name: Siderophore-based transport
+synonym: "Resource Acquisition:Substrate uptake:secondary metabolite transport:siderophore-based transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:vitamin_transport:vitamin_B_transport
+name: Vitamin B transport
+synonym: "Resource Acquisition:Substrate uptake:vitamin transport:vitamin B transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_uptake:vitamin_transport:vitamin_C_transport
+name: Vitamin C transport
+synonym: "Resource Acquisition:Substrate uptake:vitamin transport:vitamin C transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:complex_carbohydrate_depolymerization:cellulose_breakdown
+name: Complex carbohydrate depolymerization by cellulose breakdown
+synonym: "Resource Acquisition:Substrate degradation:complex carbohydrate depolymerization:cellulose breakdown" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:complex_carbohydrate_depolymerization:chitin_breakdown
+name: Complex carbohydrate depolymerization by chitin breakdown
+synonym: "Resource Acquisition:Substrate degradation:complex carbohydrate depolymerization:chitin breakdown" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:complex_carbohydrate_depolymerization:heteromannan_breakdown
+name: Complex carbohydrate depolymerization by heteromannan breakdown
+synonym: "Resource Acquisition:Substrate degradation:complex carbohydrate depolymerization:heteromannan breakdown" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:complex_carbohydrate_depolymerization:mixed_linkage_glucan_breakdown
+name: Complex carbohydrate depolymerization by mixed linkage glucan breakdown
+synonym: "Resource Acquisition:Substrate degradation:complex carbohydrate depolymerization:mixed linkage glucan breakdown" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:complex_carbohydrate_depolymerization:xylan_and_heteroxylan_breakdown
+name: Complex carbohydrate depolymerization by xylan and heteroxylan breakdown
+synonym: "Resource Acquisition:Substrate degradation:complex carbohydrate depolymerization:xylan and heteroxylan breakdown" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:complex_carbohydrate_depolymerization:xyloglucan_breakdown
+name: Complex carbohydrate depolymerization by xyloglucan breakdown
+synonym: "Resource Acquisition:Substrate degradation:complex carbohydrate depolymerization:xyloglucan breakdown" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:protein_degradation
+name: Protein degradation
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:carbohydrate_degradation:ED_pathway
+name: Carbohydrate degradation with ED pathway
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation:ED pathway" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:carbohydrate_degradation:EMP_pathway
+name: Carbohydrate degradation with EMP pathway
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation:EMP pathway" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:carbohydrate_degradation:fructose_degradation
+name: Carbohydrate degradation by fructose degradation
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation:fructose degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:carbohydrate_degradation:fucose_degradation
+name: Carbohydrate degradation by fucose degradation
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation:fucose degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:carbohydrate_degradation:maltose_degradation
+name: Carbohydrate degradation by maltose degradation
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation:maltose degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:carbohydrate_degradation:galactose_degradation
+name: Carbohydrate degradation by galactose degradation
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation:galactose degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:carbohydrate_degradation:mannose_degradation
+name: Carbohydrate degradation by mannose degradation
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation:mannose degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:carbohydrate_degradation:trehalose_degradation
+name: Carbohydrate degradation by trehalose degradation
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation:trehalose degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:sugar_acid_degradation:galacturonate_degradation
+name: Sugar acid degradation by galacturonate degradation
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:sugar acid degradation:galacturonate degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:sugar_acid_degradation:glucuronate_degradation
+name: Sugar acid degradation by glucuronate degradation
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:sugar acid degradation:glucuronate degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:alcohol_degradation:glycerol_degradation
+name: Alcohol degradation by glycerol degradation
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:alcohol degradation:glycerol degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_degradation:simple_compound_degradation:phenol_degradation:resorcinol_degradation
+name: Phenol degradation by resorcinol degradation
+synonym: "Resource Acquisition:Substrate degradation:simple compound degradation:phenol degradation:resorcinol degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds:CO2_fixation:Calvin_Cycle
+name: Substrate Assimilation of C1 compounds by CO2 fixation with Calvin Cycle
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation:Calvin Cycle" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds:CO2_fixation:3-hydroxypropionate_pathway
+name: Substrate Assimilation of C1 compounds by CO2 fixation with 3-hydroxypropionate pathway
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation:3-hydroxypropionate pathway" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds:CO2_fixation:3-hydroxypropionate/4-hydroxybutyrate_pathway
+name: Substrate Assimilation of C1 compounds by CO2 fixation with 3-hydroxypropionate/4-hydroxybutyrate pathway
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation:3-hydroxypropionate/4-hydroxybutyrate pathway" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds:CO2_fixation:dicarboxylate-hydroxybutyrate_pathway
+name: Substrate Assimilation of C1 compounds by CO2 fixation with dicarboxylate-hydroxybutyrate pathway
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation:dicarboxylate-hydroxybutyrate pathway" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds:CO2_fixation:reductive_acetyl-CoA_pathway
+name: Substrate Assimilation of C1 compounds by CO2 fixation with reductive acetyl-CoA pathway
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation:reductive acetyl-CoA pathway" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds:CO2_fixation:reductive_citric_acid_pathway
+name: Substrate Assimilation of C1 compounds by CO2 fixation with reductive citric acid pathway
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation:reductive citric acid pathway" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds:CO2_fixation:carboxysome
+name: Substrate Assimilation of C1 compounds by CO2 fixation with carboxysome
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation:carboxysome" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds:methanotrophy:formaldehyde_oxidation_pathway
+name: Substrate Assimilation of C1 compounds by methanotrophy with formaldehyde oxidation pathway
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy:formaldehyde oxidation pathway" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds:methanotrophy:methane_oxidation_pathway
+name: Substrate Assimilation of C1 compounds by methanotrophy with methane oxidation pathway
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy:methane oxidation pathway" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds:methanotrophy:methanol_oxidation_pathway
+name: Substrate Assimilation of C1 compounds by methanotrophy with methanol oxidation pathway
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy:methanol oxidation pathway" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds:methanotrophy:formaldehyde_assimilation_with_serine_pathway
+name: Substrate Assimilation of C1 compounds by methanotrophy with formaldehyde assimilation with serine pathway
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy:formaldehyde assimilation with serine pathway" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds:methanotrophy:formaldehyde_assimilation_with_RuMP_pathway
+name: Substrate Assimilation of C1 compounds by methanotrophy with formaldehyde assimilation with RuMP pathway
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy:formaldehyde assimilation with RuMP pathway" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds:methanotrophy:PHB_cycle
+name: Substrate Assimilation of C1 compounds by methanotrophy with PHB cycle
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy:PHB cycle" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds:methanotrophy:H4MPT_pathway
+name: Substrate Assimilation of C1 compounds by methanotrophy with H4MPT pathway
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy:H4MPT pathway" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:C1_compounds:methanotrophy:H4F_pathway
+name: Substrate Assimilation of C1 compounds by methanotrophy with H4F pathway
+synonym: "Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy:H4F pathway" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:N_compounds:assimilatory_nitrate_reduction
+name: Substrate Assimilation of N compounds by assimilatory nitrate reduction
+synonym: "Resource Acquisition:Substrate assimilation:N compounds:assimilatory nitrate reduction" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:N_compounds:nitrogen_fixation
+name: Substrate Assimilation of N compounds by nitrogen fixation
+synonym: "Resource Acquisition:Substrate assimilation:N compounds:nitrogen fixation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:N_compounds:ammonia_assimilation_to_aspartate
+name: Substrate Assimilation of N compounds by ammonia assimilation to aspartate
+synonym: "Resource Acquisition:Substrate assimilation:N compounds:ammonia assimilation to aspartate" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:N_compounds:ammonia_assimilation_to_glutamate
+name: Substrate Assimilation of N compounds by ammonia assimilation to glutamate
+synonym: "Resource Acquisition:Substrate assimilation:N compounds:ammonia assimilation to glutamate" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:N_compounds:ammonia_assimilation_to_glutamine
+name: Substrate Assimilation of N compounds by ammonia assimilation to glutamine
+synonym: "Resource Acquisition:Substrate assimilation:N compounds:ammonia assimilation to glutamine" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:S_compounds:assimilatory_sulfate_reduction
+name: Substrate Assimilation of S compounds by assimilatory sulfate reduction
+synonym: "Resource Acquisition:Substrate assimilation:S compounds:assimilatory sulfate reduction" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:P_compounds:phytase
+name: Substrate Assimilation of P compounds with phytase
+synonym: "Resource Acquisition:Substrate assimilation:P compounds:phytase" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Acquisition:Substrate_assimilation:P_compounds:phosphatase
+name: Substrate Assimilation of P compounds with phosphatase
+synonym: "Resource Acquisition:Substrate assimilation:P compounds:phosphatase" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:fermentation_of_pyruvate_to_acetone
+name: Fermentation of pyruvate to acetone
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation of pyruvate to acetone" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:fermentation_of_pyruvate_to_lactate_and_ethanol
+name: Fermentation of pyruvate to lactate and ethanol
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation of pyruvate to lactate and ethanol" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:fermentation_of_pyruvate_to_alcohols
+name: Fermentation of pyruvate to alcohols
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation of pyruvate to alcohols" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:fermentation_of_pyruvate_to_SCFAs
+name: Fermentation of pyruvate to SCFAs
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation of pyruvate to SCFAs" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:fermentation_of_pyruvate_to_butylene_glycol
+name: Fermentation of pyruvate to butylene glycol
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation of pyruvate to butylene glycol" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:fermentation_of_pyruvate_to_isobutanol
+name: Fermentation of pyruvate to isobutanol
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation of pyruvate to isobutanol" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:fermentation_of_acetylene_to_acetate
+name: Fermentation of acetylene to acetate
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation of acetylene to acetate" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:fermentation_of_acetylene_to_acetate_and_ethanol
+name: Fermentation of acetylene to acetate and ethanol
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation of acetylene to acetate and ethanol" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:aerobic_respiration:oxidative_pentose_phosphate_pathway
+name: Aerobic respiration:oxidative pentose phosphate pathway
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration:oxidative pentose phosphate pathway" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:aerobic_respiration:nonoxidative_pentose_phosphate_pathway
+name: Aerobic respiration:nonoxidative pentose phosphate pathway
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration:nonoxidative pentose phosphate pathway" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:aerobic_respiration:glyoxylate_cycle
+name: Aerobic respiration:glyoxylate cycle
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration:glyoxylate cycle" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:aerobic_respiration:TCA_cycle
+name: Aerobic respiration:TCA cycle
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration:TCA cycle" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:aerobic_respiration:electron_transport_chain:_ETC_complex_I
+name: Aerobic respiration:electron transport chain: ETC complex I
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration:electron transport chain: ETC complex I" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:aerobic_respiration:electron_transport_chain:_ETC_complex_II
+name: Aerobic respiration:electron transport chain: ETC complex II
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration:electron transport chain: ETC complex II" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:aerobic_respiration:electron_transport_chain:_ETC_complex_III
+name: Aerobic respiration:electron transport chain: ETC complex III
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration:electron transport chain: ETC complex III" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemoorganoheterotrophy:aerobic_respiration:electron_transport_chain:_ETC_complex_IV
+name: Aerobic respiration:electron transport chain: ETC complex IV
+synonym: "Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration:electron transport chain: ETC complex IV" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:N_(denitrification):denitrification_to_nitrite
+name: Denitrification to nitrite
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:N (denitrification):denitrification to nitrite" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:N_(denitrification):denitrification_to_nitric_oxide
+name: Denitrification to nitric oxide
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:N (denitrification):denitrification to nitric oxide" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:N_(denitrification):denitrification_to_nitrous_oxide
+name: Denitrification to nitrous oxide
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:N (denitrification):denitrification to nitrous oxide" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:N_(denitrification):denitrification_to_nitrogen
+name: Denitrification to nitrogen
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:N (denitrification):denitrification to nitrogen" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:S_as_terminal_electron_acceptor:sulfur
+name: Sulfur respiration
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S as terminal electron acceptor:sulfur" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:S_as_terminal_electron_acceptor:sulfate
+name: Sulfate respiration
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S as terminal electron acceptor:sulfate" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:S_as_terminal_electron_acceptor:sulfite
+name: Sulfite respiration
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S as terminal electron acceptor:sulfite" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:S_as_terminal_electron_acceptor:DMSO
+name: DMSO respiration
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S as terminal electron acceptor:DMSO" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:S_as_terminal_electron_acceptor:DMSP
+name: DMSP respiration
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S as terminal electron acceptor:DMSP" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:S_as_terminal_electron_acceptor:thiosulfate
+name: Thiosulfate respiration
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S as terminal electron acceptor:thiosulfate" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:S_as_terminal_electron_acceptor:tetrathionate
+name: Tetrathionate respiration
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S as terminal electron acceptor:tetrathionate" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:Fe_as_terminal_electron_acceptor:ferric_ion
+name: Ferric ion respiration
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:Fe as terminal electron acceptor:ferric ion" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:As_as_terminal_electron_acceptor:arsenate
+name: Arsenate respiration
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:As as terminal electron acceptor:arsenate" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:Se_as_terminal_electron_acceptor:selenate
+name: Selenate respiration
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:Se as terminal electron acceptor:selenate" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:hydrogenotrophic_methanogenesis
+name: Hydrogenotrophic methanogenesis
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:hydrogenotrophic methanogenesis" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:acetoclastic_methanogenesis
+name: Acetoclastic methanogenesis
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:acetoclastic methanogenesis" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:methylotrophic_methanogenesis:from_methanethiol
+name: Methylotrophic methanogenesis from methanethiol
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis:from methanethiol" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:methylotrophic_methanogenesis:from_methanol
+name: Methylotrophic methanogenesis from methanol
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis:from methanol" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:methylotrophic_methanogenesis:from_TMAO
+name: Methylotrophic methanogenesis from TMAO
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis:from TMAO" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:methylotrophic_methanogenesis:from_monomethylamine
+name: Methylotrophic methanogenesis from monomethylamine
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis:from monomethylamine" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:methylotrophic_methanogenesis:from_dimethylamine
+name: Methylotrophic methanogenesis from dimethylamine
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis:from dimethylamine" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoheterotrophy:anaerobic_respiration:methylotrophic_methanogenesis:from_trimethylamine
+name: Methylotrophic methanogenesis from trimethylamine
+synonym: "Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis:from trimethylamine" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoautotrophy:anaerobic_ammonia_oxidation
+name: Anaerobic ammonia oxidation
+synonym: "Resource Use:Chemotrophy:chemolithoautotrophy:anaerobic ammonia oxidation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoautotrophy:aerobic_ammonia_oxidation
+name: Aerobic ammonia oxidation
+synonym: "Resource Use:Chemotrophy:chemolithoautotrophy:aerobic ammonia oxidation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoautotrophy:nitrite_oxidation
+name: Nitrite oxidation
+synonym: "Resource Use:Chemotrophy:chemolithoautotrophy:nitrite oxidation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoautotrophy:sulfide_oxidation
+name: Sulfide oxidation
+synonym: "Resource Use:Chemotrophy:chemolithoautotrophy:sulfide oxidation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoautotrophy:sulfur_oxidation
+name: Sulfur oxidation
+synonym: "Resource Use:Chemotrophy:chemolithoautotrophy:sulfur oxidation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoautotrophy:sulfite_oxidation
+name: Sulfite oxidation
+synonym: "Resource Use:Chemotrophy:chemolithoautotrophy:sulfite oxidation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoautotrophy:thiosulfate_oxidation
+name: Thiosulfate oxidation
+synonym: "Resource Use:Chemotrophy:chemolithoautotrophy:thiosulfate oxidation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoautotrophy:iron_oxidation
+name: Iron oxidation
+synonym: "Resource Use:Chemotrophy:chemolithoautotrophy:iron oxidation" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Chemotrophy:chemolithoautotrophy:hydrogenotrophy_from_H2/CO2
+name: Hydrogenotrophy from H2/CO2
+synonym: "Resource Use:Chemotrophy:chemolithoautotrophy:hydrogenotrophy from H2/CO2" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:photosystem:oxygenic:oxygenic_photosystem_I
+name: Oxygenic photosystem I
+synonym: "Resource Use:Phototrophy:photosystem:oxygenic:oxygenic photosystem I" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:photosystem:oxygenic:oxygenic_photosystem_II
+name: Oxygenic photosystem II
+synonym: "Resource Use:Phototrophy:photosystem:oxygenic:oxygenic photosystem II" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:photosystem:oxygenic:cytochrome_b6f_complex
+name: Cytochrome b6f complex
+synonym: "Resource Use:Phototrophy:photosystem:oxygenic:cytochrome b6f complex" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:photosystem:oxygenic:photosynthetic_electron_transport
+name: Photosynthetic electron transport
+synonym: "Resource Use:Phototrophy:photosystem:oxygenic:photosynthetic electron transport" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:photosystem:anoxygenic:anoxygenic_photosystem_I
+name: Anoxygenic photosystem I
+synonym: "Resource Use:Phototrophy:photosystem:anoxygenic:anoxygenic photosystem I" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:photosystem:anoxygenic:anoxygenic_photosystem_II
+name: Anoxygenic photosystem II
+synonym: "Resource Use:Phototrophy:photosystem:anoxygenic:anoxygenic photosystem II" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:core:chlorophyll_a
+name: Chlorophyll a
+synonym: "Resource Use:Phototrophy:pigments:core:chlorophyll a" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll_a
+name: Anoxygenic bacteriochlorophyll a
+synonym: "Resource Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll a" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll_b
+name: Anoxygenic bacteriochlorophyll b
+synonym: "Resource Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll b" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll_c
+name: Anoxygenic bacteriochlorophyll c
+synonym: "Resource Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll c" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll_d
+name: Anoxygenic bacteriochlorophyll d
+synonym: "Resource Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll d" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll_e
+name: Anoxygenic bacteriochlorophyll e
+synonym: "Resource Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll e" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll_g
+name: Anoxygenic bacteriochlorophyll g
+synonym: "Resource Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll g" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:carotenoid:carotene:neurosporene
+name: Neurosporene (carotene) synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene:neurosporene" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:carotenoid:carotene:lycopene
+name: Lycopene (carotene) synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene:lycopene" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:carotenoid:carotene:gammacarotene
+name: Gammacarotene (carotene) synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene:gammacarotene" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:carotenoid:carotene:chlorobactene
+name: Chlorobactene (carotene) synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene:chlorobactene" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:carotenoid:carotene:betacarotene
+name: Betacarotene (carotene) synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene:betacarotene" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:carotenoid:carotene:betaisorenieratene
+name: Betaisorenieratene (carotene) synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene:betaisorenieratene" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:carotenoid:carotene:isorenieratene
+name: Isorenieratene (carotene) synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene:isorenieratene" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:carotenoid:carotene:diaponeurosporene
+name: Diaponeurosporene (carotene) synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene:diaponeurosporene" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll:okenone
+name: Okenone (xanthophyll) synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll:okenone" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll:spirilloxanthin
+name: Spirilloxanthin (xanthophyll) synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll:spirilloxanthin" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll:spheroidenone
+name: Spheroidenone (xanthophyll) synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll:spheroidenone" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll:OH-spheroidenone
+name: OH-spheroidenone (xanthophyll) synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll:OH-spheroidenone" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:phycobiliprotein:allophycocyanin
+name: Allophycocyanin (phycobiliprotein) synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:phycobiliprotein:allophycocyanin" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:phycobiliprotein:phycocyanin
+name: Phycocyanin (phycobiliprotein) synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:phycobiliprotein:phycocyanin" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:phycobiliprotein:phycoerythrocyanin
+name: Phycoerythrocyanin (phycobiliprotein) synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:phycobiliprotein:phycoerythrocyanin" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:phycobiliprotein:phycoerythrin
+name: Phycoerythrin (phycobiliprotein) synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:phycobiliprotein:phycoerythrin" EXACT []
+
+[Term]
+id: MICROTRAIT:Resource_Use:Phototrophy:pigments:accessory:phycobiliprotein:chlorophyll_a/b_binding_light-harvesting_protein
+name: Chlorophyll a/b binding light-harvesting protein (phycobiliprotein) synthesis
+synonym: "Resource Use:Phototrophy:pigments:accessory:phycobiliprotein:chlorophyll a/b binding light-harvesting protein" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:General:scavenging_of_reactive_oxygen_species:ROS_scavenging_enzymes
+name: General stress tolerance by scavenging of reactive oxygen species with ROS scavenging enzymes
+synonym: "Stress Tolerance:General:scavenging of reactive oxygen species:ROS scavenging enzymes" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:General:biofilm_formation:EPS_biosynthesis/export
+name: General stress tolerance by biofilm formation with EPS biosynthesis/export
+synonym: "Stress Tolerance:General:biofilm formation:EPS biosynthesis/export" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:General:protection,_repair,_degradation_of_denatured/misfolded_proteins:heat_shock_proteins
+name: General stress tolerance by protection, repair, degradation of denatured/misfolded proteins with heat-shock proteins
+synonym: "Stress Tolerance:General:protection, repair, degradation of denatured/misfolded proteins:heat shock proteins" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:General:protection,_repair,_degradation_of_denatured/misfolded_proteins:ATP-dependent_proteases
+name: General stress tolerance by protection, repair, degradation of denatured/misfolded proteins with ATP-dependent proteases
+synonym: "Stress Tolerance:General:protection, repair, degradation of denatured/misfolded proteins:ATP-dependent proteases" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:temperature:high:protection,_repair,_degradation_of_denatured/misfolded_proteins:heat_shock_proteins
+name: High temperature  tolerance  by protection, repair, degradation of denatured/misfolded proteins with heat-shock proteins
+synonym: "Stress Tolerance:Specific:temperature:high:protection, repair, degradation of denatured/misfolded proteins:heat shock proteins" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:temperature:high:protection,_repair,_degradation_of_denatured/misfolded_proteins:ATP-dependent_proteases
+name: High temperature  tolerance  by protection, repair, degradation of denatured/misfolded proteins with ATP-dependent proteases
+synonym: "Stress Tolerance:Specific:temperature:high:protection, repair, degradation of denatured/misfolded proteins:ATP-dependent proteases" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:temperature:high:heat-induced_transcriptional_regulation:heat_induced_transcription_factor
+name: High temperature  tolerance  by heat-induced transcriptional regulation with heat induced transcription factors
+synonym: "Stress Tolerance:Specific:temperature:high:heat-induced transcriptional regulation:heat induced transcription factor" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:temperature:low:membrane_stabilization:fatty_acid_desaturase
+name: Low temperature  tolerance by membrane stabilization with fatty acid desaturase
+synonym: "Stress Tolerance:Specific:temperature:low:membrane stabilization:fatty acid desaturase" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:temperature:low:destabilization_of_secondary_structures_in_mRNAs:mRNA_chaperone
+name: Low temperature  tolerance by destabilization of secondary structures in mRNAs with mRNA chaperone
+synonym: "Stress Tolerance:Specific:temperature:low:destabilization of secondary structures in mRNAs:mRNA chaperone" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:temperature:low:destabilization_of_secondary_structures_in_mRNAs:mRNA_stabilization
+name: Low temperature  tolerance by destabilization of secondary structures in mRNAs with mRNA stabilization
+synonym: "Stress Tolerance:Specific:temperature:low:destabilization of secondary structures in mRNAs:mRNA stabilization" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:temperature:low:destabilization_of_secondary_structures_in_mRNAs:RNA_degradation
+name: Low temperature  tolerance by destabilization of secondary structures in mRNAs with rna degradation
+synonym: "Stress Tolerance:Specific:temperature:low:destabilization of secondary structures in mRNAs:RNA degradation" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:temperature:low:cold-sensing_machinery:cold_sensing_two-component_system
+name: Low temperature tolerance by cold-sensing machinery with cold sensing two-component system
+synonym: "Stress Tolerance:Specific:temperature:low:cold-sensing machinery:cold sensing two-component system" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:desiccation/osmotic/salt_stress:accumulation_of_compatible_solutes:transport_of_compatible_solutes
+name: Desiccation/osmotic/salt stress tolerance by accumulation of compatible solutes with transport of compatible solutes
+synonym: "Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes:transport of compatible solutes" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:desiccation/osmotic/salt_stress:accumulation_of_compatible_solutes:synthesis_of_compatible_solutes
+name: Desiccation/osmotic/salt stress tolerance by accumulation of compatible solutes with synthesis of compatible solutes
+synonym: "Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes:synthesis of compatible solutes" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:desiccation/osmotic/salt_stress:enhancement_of_microenvironment:EPS_biosynthesis/export
+name: Desiccation/osmotic/salt stress tolerance by enhancement of microenvironment with EPS biosynthesis
+synonym: "Stress Tolerance:Specific:desiccation/osmotic/salt stress:enhancement of microenvironment:EPS biosynthesis/export" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:desiccation/osmotic/salt_stress:osmotic_sensing:two-component_systems,_osmotic_sensors_salt/potassium_sensors
+name: Desiccation/osmotic/salt stress tolerance by osmotic sensing with salt/potassium sensors
+synonym: "Stress Tolerance:Specific:desiccation/osmotic/salt stress:osmotic sensing:two-component systems, osmotic sensors salt/potassium sensors" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:pH_stress:protection,_repair,_degradation_of_denatured/misfolded_proteins:periplasmic_acid_resistance_protein
+name: pH stress tolerance by protection, repair, degradation of denatured/misfolded proteins with periplasmic acid resistance protein
+synonym: "Stress Tolerance:Specific:pH stress:protection, repair, degradation of denatured/misfolded proteins:periplasmic acid resistance protein" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:pH_stress:protection,_repair,_degradation_of_denatured/misfolded_proteins:ATP-dependent_proteases
+name: pH stress tolerance by protection, repair, degradation of denatured/misfolded proteins with ATP-dependent proteases
+synonym: "Stress Tolerance:Specific:pH stress:protection, repair, degradation of denatured/misfolded proteins:ATP-dependent proteases" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:pH_stress:membrane_stabilization:cyclopropane_fatty_acid_(CFA)_synthase
+name: pH stress tolerance by membrane stabilization with cyclopropane fatty acid (CFA) synthase
+synonym: "Stress Tolerance:Specific:pH stress:membrane stabilization:cyclopropane fatty acid (CFA) synthase" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:pH_stress:redox_sensing:redox_sensing_two_component_systems
+name: pH stress tolerance by redox sensing with redox sensing two component systems
+synonym: "Stress Tolerance:Specific:pH stress:redox sensing:redox sensing two component systems" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:pH_stress:redox_sensing:redox_sensitive_transcription_factor
+name: pH stress tolerance by redox sensing with redox sensitive transcription factor
+synonym: "Stress Tolerance:Specific:pH stress:redox sensing:redox sensitive transcription factor" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:pH_stress:consumption_of_excessive_cytoplasmic_protons:urease_system
+name: pH stress tolerance by consumption of excessive cytoplasmic protons with urease system
+synonym: "Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons:urease system" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:pH_stress:consumption_of_excessive_cytoplasmic_protons:decarboxylase_and_antiporter_systems
+name: pH stress tolerance by consumption of excessive cytoplasmic protons with decarboxylase and antiporter systems
+synonym: "Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons:decarboxylase and antiporter systems" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:oxidative_stress:scavenging_of_reactive_oxygen_species:ROS_scavenging_enzymes
+name: Oxidative stress tolerance by scavenging of reactive oxygen species with ROS scavenging enzymes
+synonym: "Stress Tolerance:Specific:oxidative stress:scavenging of reactive oxygen species:ROS scavenging enzymes" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:oxidative_stress:redox_sensing:redox_sensing_two_component_systems
+name: Oxidative stress tolerance by redox sensing with redox sensing two component systems
+synonym: "Stress Tolerance:Specific:oxidative stress:redox sensing:redox sensing two component systems" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:oxygen_limitation:redox_sensing:redox_sensing_two_component_systems
+name: Oxygen limitation tolerance by redox sensing with redox sensing two component systems
+synonym: "Stress Tolerance:Specific:oxygen limitation:redox sensing:redox sensing two component systems" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:oxygen_limitation:oxygen_sensing:oxygen_sensing_two_component_systems
+name: Oxygen limitation tolerance by oxygen sensing with oxygen sensing two component systems
+synonym: "Stress Tolerance:Specific:oxygen limitation:oxygen sensing:oxygen sensing two component systems" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:envelope_stress:misfolded_protein/secretion_stress_sensing:misfolded_proteins/secretion_stress_two_component_systems
+name: Envelope stress tolerance by misfolded protein/secretion stress sensing with misfolded proteins/secretion stress two component systems
+synonym: "Stress Tolerance:Specific:envelope stress:misfolded protein/secretion stress sensing:misfolded proteins/secretion stress two component systems" EXACT []
+
+[Term]
+id: MICROTRAIT:Stress_Tolerance:Specific:envelope_stress:phage_resistance:phage-shock_system
+name: Envelope stress tolerance by phage resistance with phage-shock system
+synonym: "Stress Tolerance:Specific:envelope stress:phage resistance:phage-shock system" EXACT []
+
